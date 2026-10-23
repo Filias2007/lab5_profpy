@@ -1,0 +1,30 @@
+[
+{
+  "product_id": 1,
+  "name": "Laptop Lenovo",
+  "category": "Electronics",
+  "price": 1200.0,
+  "quantity": 10
+},
+{
+  "product_id": 2,
+  "name": "T-Shirt Cotton",
+  "category": "Clothing",
+  "price": 25.0,
+  "quantity": 2
+},
+{
+  "product_id": 3,
+  "name": "Python Crash Course",
+  "category": "Books",
+  "price": 45.0,
+  "quantity": 15
+},
+{
+  "product_id": 8,
+  "name": "Headphones",
+  "category": "Electronics",
+  "price": 99.9,
+  "quantity": 1
+}
+]

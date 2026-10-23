@@ -1,0 +1,9 @@
+2026-10-23 23:49:22,733 | INFO | reliable_importer.utils | Операція 'Імпорт та Експорт Товарів' розпочата
+2026-10-23 23:49:22,747 | WARNING | reliable_importer.services | Низький запас товару (Low Stock) ID=2 'T-Shirt Cotton': 2 шт. (поріг: 5)
+2026-10-23 23:49:22,748 | WARNING | reliable_importer.services | Некоректний запис у рядку 5 (поле name): Назва товару порожня
+2026-10-23 23:49:22,748 | WARNING | reliable_importer.services | Некоректний запис у рядку 6 (поле price): Ціна має бути невід'ємним числом (>= 0)
+2026-10-23 23:49:22,749 | WARNING | reliable_importer.services | Некоректний запис у рядку 7 (поле category): Категорія 'InvalidCategory' не дозволена
+2026-10-23 23:49:22,749 | WARNING | reliable_importer.services | Некоректний запис у рядку 8 (поле product_id): product_id має бути додатним цілим числом
+2026-10-23 23:49:22,749 | WARNING | reliable_importer.services | Низький запас товару (Low Stock) ID=8 'Headphones': 1 шт. (поріг: 5)
+2026-10-23 23:49:22,752 | INFO | reliable_importer.utils | Операція 'Імпорт та Експорт Товарів' успішно завершена за 0.018852 сек
+2026-10-23 23:49:22,752 | INFO | __main__ | Статистика: Усього=8, Валідні=4, Невалідні=4, Експортовано=4
